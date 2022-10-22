@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harika Kommuri</h1>
-<h3 align="center">A passionate Frontend developer living in Germany</h3>
+<h3 align="center">A passionate Web developer living in Germany</h3>
 <img align="right" alt="Coding Image" width="400" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harika-ko&label=Profile%20views&color=0e75b6&style=flat" alt="harika-ko" /> </p>
